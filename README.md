@@ -1,4 +1,29 @@
-## Create a Miro app
+OpenAI
+![400x400px new](https://github.com/bishopwm/jsWorldTest/assets/10800544/a5731a8b-46a1-492a-b25b-f416262de606)
+![775x405px](https://github.com/bishopwm/jsWorldTest/assets/10800544/b0630e3c-07cb-417e-a924-5d490e895f4d)
+
+AWS
+![400x400px now](https://github.com/bishopwm/jsWorldTest/assets/10800544/96e6a911-32d3-4f00-90ba-ec9d685117d2)
+![775x405px-1](https://github.com/bishopwm/jsWorldTest/assets/10800544/f2a7228c-ffcc-4cac-a38d-0c4f6b50c46c)
+
+OAuth2.0
+![400x400px now-1](https://github.com/bishopwm/jsWorldTest/assets/10800544/550e9c40-b254-422a-86a6-7664aa88a83a)
+![775x405px-2](https://github.com/bishopwm/jsWorldTest/assets/10800544/bd0afa70-dbe9-4b3a-bafe-8674603b5552)
+
+RSC
+![400x400px now-2](https://github.com/bishopwm/jsWorldTest/assets/10800544/ff472917-df71-4bae-badf-a91cb5a9f47c)
+![775x405px-3](https://github.com/bishopwm/jsWorldTest/assets/10800544/3816b082-af23-4495-aff1-0b79d497a05b)
+
+Badge
+![400x400px now-4](https://github.com/bishopwm/jsWorldTest/assets/10800544/385d8415-9415-4322-9e64-485ee6dd0d91)
+![775x405px-4](https://github.com/bishopwm/jsWorldTest/assets/10800544/d74d15af-b5f5-49e1-9fb8-49a19d04b552)
+
+AppExamples
+![400x400px now-3](https://github.com/bishopwm/jsWorldTest/assets/10800544/ddfd18c8-ab15-4442-a11b-98df51b1f685)
+![775x405px-5](https://github.com/bishopwm/jsWorldTest/assets/10800544/856bf8c3-e23b-40c4-93d6-0a72183805eb)
+
+
+
 
 ### How to start locally
 
