@@ -25,6 +25,7 @@ AppExamples
 Junction
 ![Email banner](https://github.com/bishopwm/jsWorldTest/assets/10800544/bc967fe1-b507-4a9b-a25b-0175bd475d42)
 
+![VIS1_Photoshoot_Two_screens_photo_small_1-3mb](https://github.com/bishopwm/jsWorldTest/assets/10800544/37e5d050-9382-40a5-a226-51eb67f1118d)
 
 ### How to start locally
 
