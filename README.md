@@ -31,6 +31,7 @@ Junction
 
 ![small_hero_webinar_ent_ready](https://github.com/bishopwm/jsWorldTest/assets/10800544/f1064730-1348-4e66-ba93-ce2b3f4aeb1c)
 
+![Deprecation_Versioning KS - Metadata](https://github.com/bishopwm/jsWorldTest/assets/10800544/f49f5786-3fb8-4b09-9a53-fdc0f1f5d439)
 
 
 ### How to start locally
