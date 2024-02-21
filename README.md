@@ -27,6 +27,12 @@ Junction
 
 ![VIS1_Photoshoot_Two_screens_photo_small_1-3mb](https://github.com/bishopwm/jsWorldTest/assets/10800544/37e5d050-9382-40a5-a226-51eb67f1118d)
 
+![VIS1_Photoshoot_Two_screens_photo_small_1-3mb](https://github.com/bishopwm/jsWorldTest/assets/10800544/de203c9a-d22d-43a3-b9d8-242e7a8a1443)
+
+![small_hero_webinar_ent_ready](https://github.com/bishopwm/jsWorldTest/assets/10800544/f1064730-1348-4e66-ba93-ce2b3f4aeb1c)
+
+
+
 ### How to start locally
 
 1. [Sign in](https://miro.com/login/) to Miro, and then create a
