@@ -79,4 +79,7 @@ When your server is up and running:
 
 ![App Metrics](https://github.com/bishopwm/jsWorldTest/assets/10800544/f0699495-f8d2-4489-a163-1fb08f540e80)
 
+![Integrations Wishlist](https://github.com/bishopwm/jsWorldTest/assets/10800544/f6081e98-2e8a-4fe5-950d-a2735f4bcde4)
+
+
 
