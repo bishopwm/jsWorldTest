@@ -74,3 +74,6 @@ When your server is up and running:
 - 
 
 ![March Webinar_ Building Enterprise Ready Miro Apps - Marketplace Security](https://github.com/bishopwm/jsWorldTest/assets/10800544/3d58450c-dd4d-484a-9696-5f26cbdc0ab2)
+
+![March Webinar_ Building Enterprise Ready Miro Apps - Marketplace Listing](https://github.com/bishopwm/jsWorldTest/assets/10800544/1f7b36c3-0e2f-4ddc-a8a6-0a3d2f0de7f4)
+
