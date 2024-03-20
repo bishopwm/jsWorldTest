@@ -71,3 +71,6 @@ When your server is up and running:
 - Go to [Miro.com](https://miro.com).
 - In your developer team, open a board.
 - To start your app, click the app icon in the app toolbar on the left.
+- 
+
+![March Webinar_ Building Enterprise Ready Miro Apps - Marketplace Security](https://github.com/bishopwm/jsWorldTest/assets/10800544/3d58450c-dd4d-484a-9696-5f26cbdc0ab2)
