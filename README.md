@@ -82,4 +82,6 @@ When your server is up and running:
 ![Integrations Wishlist](https://github.com/bishopwm/jsWorldTest/assets/10800544/f6081e98-2e8a-4fe5-950d-a2735f4bcde4)
 
 
+![Deprecation_Versioning KS - Marketplace Requirements](https://github.com/bishopwm/jsWorldTest/assets/10800544/d052190e-965a-4987-ab54-cc837b73479f)
+
 
