@@ -34,6 +34,11 @@ Junction
 ![Deprecation_Versioning KS - Metadata](https://github.com/bishopwm/jsWorldTest/assets/10800544/f49f5786-3fb8-4b09-9a53-fdc0f1f5d439)
 
 
+![benefits_sidebar](https://github.com/bishopwm/jsWorldTest/assets/10800544/2cdb3317-69c7-43b3-a457-a4e73d7cde2f)
+
+![benefits_comments](https://github.com/bishopwm/jsWorldTest/assets/10800544/d6cd7f0f-0f13-4039-905e-8c8cea94567e)
+
+
 ### How to start locally
 
 1. [Sign in](https://miro.com/login/) to Miro, and then create a
