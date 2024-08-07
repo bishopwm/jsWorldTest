@@ -1,4 +1,8 @@
 OpenAI
+
+https://github.com/user-attachments/assets/c6111206-e294-4dfb-a26c-59b2e2395204
+
+
 ![400x400px new](https://github.com/bishopwm/jsWorldTest/assets/10800544/a5731a8b-46a1-492a-b25b-f416262de606)
 ![775x405px](https://github.com/bishopwm/jsWorldTest/assets/10800544/b0630e3c-07cb-417e-a924-5d490e895f4d)
 
