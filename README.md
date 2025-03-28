@@ -1,7 +1,64 @@
+
+
+
+
+##Image with Width 100 x Height 300:
+![100x300](https://github.com/user-attachments/assets/e6445fd7-a59a-43cb-b6b9-a9eead3f7954)
+
+##Image with Width 300 x Height 100:
+![300x100](https://github.com/user-attachments/assets/727945b2-4e2d-4831-af58-8cbc04f8755c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/e3c533ee-aef5-4801-a19b-fba027c7dd7f)
 
-![100x300](https://github.com/user-attachments/assets/e6445fd7-a59a-43cb-b6b9-a9eead3f7954)
-![300x100](https://github.com/user-attachments/assets/727945b2-4e2d-4831-af58-8cbc04f8755c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 OpenAI
